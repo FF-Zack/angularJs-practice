@@ -1,0 +1,73 @@
+[{
+        "index": "1",
+        "name": "iphone4s",
+        "pubTime": "2014-01-01",
+        "price": 4999,
+        "wifi": "1",
+        "img":"/table/img/i4.jpg"
+    }, {
+        "index": "2",
+        "name": "iphone6 plus",
+        "pubTime": "2014-01-01",
+        "price": 6999,
+        "wifi": "1",
+        "img":"/table/img/i5.jpg"
+    }, {
+        "index": "3",
+        "name": "iphone5s",
+        "pubTime": "2014-01-01",
+        "price": 5999,
+        "wifi": "1",
+        "img":"/table/img/i6.jpg"
+    }, {
+        "index": "4",
+        "name": "mi 2s",
+        "pubTime": "2014-01-01",
+        "price": 1499,
+        "wifi": "1",
+        "img":"/table/img/mi2s.jpg"
+    }, {
+        "index": "5",
+        "name": "mi 2A",
+        "pubTime": "2014-01-01",
+        "price": 1799,
+        "wifi": "1",
+        "img":"/table/img/mi2a.png"
+    }, {
+        "index": "6",
+        "name": "mx2",
+        "pubTime": "2014-01-01",
+        "price": 1399,
+        "wifi": "1",
+        "img":"/table/img/mx2.jpg"
+    }, {
+        "index": "7",
+        "name": "mx3",
+        "pubTime": "2014-01-01",
+        "price": 1599,
+        "wifi": "1",
+        "img":"/table/img/mx3.jpg"
+    }, {
+        "index": "8",
+        "name": "mx4",
+        "pubTime": "2014-01-01",
+        "price": 1799,
+        "wifi": "1",
+        "img":"/table/img/mx4.jpg"
+    }, {
+        "index": "9",
+        "name": "n79",
+        "pubTime": "2014-01-01",
+        "price": 799,
+        "wifi": "0",
+        "img":"/table/img/n79.jpg"
+    }, {
+        "index": "10",
+        "name": "n85",
+        "pubTime": "2014-01-01",
+        "price": 999,
+        "wifi": "0",
+        "img":"/table/img/n85.jpg"
+    }
+
+]
